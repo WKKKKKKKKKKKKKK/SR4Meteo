@@ -1,6 +1,11 @@
 # SR4Meteo
 Applications of symbolic regression (Tan et al., 2026; Cranmer, 2023) in meteorology.
-<img width="600" height="400" alt="1d56f411-d16b-4cf9-9740-d7e6e1ec98b0" src="https://github.com/user-attachments/assets/c4f35c55-bd87-4746-90d6-ff170fde1c48" />
+Some useful links: 
+- https://astroautomata.github.io/symtorch-web/
+- https://astroautomata.com/PySR/v1.5.9/
+
+<img width="1280" height="750" alt="7f0d3019-b077-4389-aaf7-c75cf3e4b584" src="https://github.com/user-attachments/assets/4ee8e403-e938-4243-8fe1-705aee22ed3d" />
+
 
 
 
